@@ -1,6 +1,7 @@
 # dailyshop
 
-A new Flutter project.
+A simple shopping app with user authentication that uses Flutter + Firebase.
+You can operate this app by adding your firebase credentials in /lib/providers.
 
 ## Getting Started
 
